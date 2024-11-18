@@ -4,9 +4,15 @@
     "name": "Dato khojava",
     "email": "datokhojava8@gmail.com"
   },
+  "keywords": [],
   "description": "First homework for NodeJS course",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/Purple-Academy/node_1_pack"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
   }
 }
