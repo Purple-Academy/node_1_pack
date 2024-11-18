@@ -1,0 +1,12 @@
+{
+  "name": "andersen-node-js",
+  "author": {
+    "name": "Dato Khoajav",
+    "email": "datokhojava8@gmail.com"
+  },
+  "description": "First homework for NodeJS course",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/Purple-Academy/node_1_pack"
+  }
+}
